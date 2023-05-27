@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration: none;
+}
+section{
+    padding: 60px 0;
+    overflow: hidden;
+}
+#hero{
+    width: 100%;
+    height: 50vh;
+    background:  url('reg2.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#hero .containor{
+    padding-top:80px;
+
+}
